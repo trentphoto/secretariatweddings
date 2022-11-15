@@ -3,8 +3,8 @@ import { useRouter } from 'next/router';
 
 // !STARTERCONF Change these default meta
 const defaultMeta = {
-  title: 'Next.js + Tailwind CSS + TypeScript Starter',
-  siteName: 'Next.js + Tailwind CSS + TypeScript Starter',
+  title: 'Secretariat Wedding Video | Cinematic Wedding Films',
+  siteName: 'Secretariat Wedding Video',
   description:
     'A starter for Next.js, Tailwind CSS, and TypeScript with Absolute Import, Seo, Link component, pre-configured with Husky',
   /** Without additional '/' on the end, e.g. https://theodorusclarence.com */
@@ -15,7 +15,7 @@ const defaultMeta = {
    * No need to be filled, will be populated with openGraph function
    * If you wish to use a normal image, just specify the path below
    */
-  image: 'https://secretariatmedia.com/static/images/hero-poster.jpeg',
+  image: 'https://res.cloudinary.com/dakfmjumy/image/upload/v1668553934/secretariatmedia/meta_v8u7zj.jpg',
 };
 
 type SeoProps = {
