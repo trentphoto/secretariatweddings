@@ -1,4 +1,5 @@
 
+
 import Script from "next/script"
 
 import Footer from "@/components/layout/Footer"
@@ -7,6 +8,7 @@ import Layout from "@/components/layout/Layout"
 import Seo from "@/components/Seo"
 
 export default function ContactPage(){
+  
   return (
     <Layout>
       <Seo />
@@ -27,12 +29,20 @@ export default function ContactPage(){
           <div className="container max-w-xl">
             <h2 className="text-5xl">Contact Us</h2>
             <p className="text-lg mb-4">You can use the form below to get in touch with us.</p>
-            <form className="flex flex-col items-stretch w-sm space-y-4" name="contact" action="/thank-you" netlify>
-              <input className="form-control border border-gray-500 p-2 px-3" type="text" name="name" id="name" placeholder="Name" required />
-              <input className="form-control border border-gray-500 p-2 px-3" type="email" name="email" id="email" placeholder="Email Address" required />
-              <input className="form-control border border-gray-500 p-2 px-3" type="phone" name="phone" id="phone" placeholder="Phone Number" required />
-              <textarea className="form-control border border-gray-500 p-2 px-3" name="message" id="message" placeholder="Additional Details (Optional)" />
-              <button className="px-8 py-3 text-sm font-light uppercase tracking-wide bg-gray-700 text-white border border-gray-600 rounded-none font-sans hover:bg-gray-600 active:bg-gray-500 disabled:bg-gray-500" form="contact">Submit</button>
+            <form 
+              className="flex flex-col items-stretch w-sm space-y-4" 
+              name="contact" 
+              id="contact"
+              action="/thank-you" 
+              method="POST" 
+              netlify
+            >
+              <input className="border border-gray-500 p-2 px-3" type="text" name="name" id="name" placeholder="Name" required />
+              <input className="border border-gray-500 p-2 px-3" type="email" name="email" id="email" placeholder="Email Address" required />
+              <input className="border border-gray-500 p-2 px-3" type="tel" name="phone" id="phone" placeholder="Phone Number" required />
+              <textarea className="border border-gray-500 p-2 px-3" name="message" id="message" placeholder="Additional Details (Optional)" />
+              <button className="px-8 py-3 text-sm font-light uppercase tracking-wide bg-gray-700 text-white border border-gray-600 rounded-none font-sans hover:bg-gray-600 active:bg-gray-500 disabled:bg-gray-500" type="submit" form="contact">Submit</button>
+            
             </form>
           </div>
         </section>

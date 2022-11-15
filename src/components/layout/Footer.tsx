@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import * as React from 'react';
 
 import Nav from '@/components/Nav';
@@ -34,6 +35,10 @@ export default function Footer() {
           <p>© 2022 Secretariat Media, LLC.</p>
         </div>
       </footer>
+      <div className='container flex justify-center items-center space-x-6 p-6 text-sm border-gray-300 border-t'>
+        <Link className='p-1' href="/privacy-policy">Privacy Policy</Link>
+        {/* <Link className='p-1' href="/terms">Terms & Conditions</Link> */}
+      </div>
     </>
   );
 }

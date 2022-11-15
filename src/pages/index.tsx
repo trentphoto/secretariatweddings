@@ -185,7 +185,7 @@ export default function HomePage() {
                 5 shots every bride should have their videographer be sure to
                 capture on their special day.
               </p>
-              <ButtonLink href='#'>Download for Free</ButtonLink>
+              <ButtonLink href='/l/shotlist'>Download for Free</ButtonLink>
             </div>
             <NextImage
               src='/images/shotlist.jpeg'

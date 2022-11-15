@@ -3,18 +3,19 @@ import matter from 'gray-matter'
 import { marked } from 'marked'
 import path from 'path';
 
-import { getSortedPostsData } from '@/lib/posts'
+import { getSortedPortfolioData } from '@/lib/portfolio'
 
 import Footer from '@/components/layout/Footer';
 import Header from '@/components/layout/Header';
 import Layout from '@/components/layout/Layout';
-import NextImage from '@/components/NextImage';
+import ArrowLink from '@/components/links/ArrowLink'
 import Seo from '@/components/Seo';
+import YouTube from '@/components/YouTube';
 
-import Post from '@/types/Post';
+import Portfolio from '@/types/Portfolio';
 
 
-export default function BlogPostPage({ content, date, slug, title, subtitle, image }: Post) {
+export default function BlogPostPage({ content, date, slug, name, location, image, youtube }: Portfolio) {
   
   return (
     <>
@@ -25,19 +26,21 @@ export default function BlogPostPage({ content, date, slug, title, subtitle, ima
         <main>
           <section className="py-20 bg-gray-100 text-center">
             <div className="container max-w-3xl space-y-3">
-              <h1 className='font-bold'>{title}</h1>
-              <p className='smallcaps'>{subtitle}</p>
+              <h1 className='font-bold'>{name}</h1>
+              <p className='smallcaps'>{location}</p>
             </div>
           </section>
           <section className="py-12">
             <div className="container max-w-3xl">
-              <NextImage 
-                src={image}
-                width="768"
-                height="200"
-                className='h-72 flex items-center mb-12 shadow-md rounded-xl overflow-hidden'
-                alt={title}
-              />
+
+              <ArrowLink className="mb-4" direction="left" href="/portfolio">Back to Portfolio</ArrowLink>
+              
+              
+
+              {
+                youtube ? <YouTube youtubeId={youtube} /> : ''
+              }
+              <div className="mb-8"></div>
               
               <div 
                 dangerouslySetInnerHTML={{__html: marked(content)}}
@@ -54,7 +57,7 @@ export default function BlogPostPage({ content, date, slug, title, subtitle, ima
 }
 
 export async function getStaticPaths() {
-  const posts = getSortedPostsData();
+  const posts = getSortedPortfolioData();
   const paths = posts.map((post) => ({
     params: {
       slug: post.slug
@@ -69,7 +72,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({params: {slug}}: never) {
   const markdownWithMeta: string = fs.readFileSync(
-    path.join('content/posts', slug + '.md'),
+    path.join('content/portfolio', slug + '.md'),
     'utf-8'
   )
 
@@ -79,9 +82,11 @@ export async function getStaticProps({params: {slug}}: never) {
     content: matterResult.content,
     date: matterResult.data.date,
     slug: matterResult.data.slug,
-    title: matterResult.data.title,
-    subtitle: matterResult.data.subtitle,
+    name: matterResult.data.name,
+    location: matterResult.data.location,
     image: matterResult.data.image,
+    category: matterResult.data.category,
+    youtube: matterResult.data.youtube ? matterResult.data.youtube : '',
     // ...matterResult.data
   }
 
@@ -95,9 +100,13 @@ export async function getStaticProps({params: {slug}}: never) {
 
 // export async function getStaticPaths() {
 //   const allPostsData: Post[] = getSortedPostsData();
+
 //   const paths = allPostsData.map(post => post.slug)
+
 //   return {
 //     paths,
 //     fallback: false,
 //   }
+  
+
 // }

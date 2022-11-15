@@ -24,7 +24,7 @@ export default function ArrowLink<C extends React.ElementType>({
     <Component
       {...rest}
       className={clsxm(
-        'group gap-[0.25em]',
+        'group p-2 gap-[0.25em] rounded hover:bg-gray-100 transition-colors',
         direction === 'left' && 'flex-row-reverse',
         className
       )}

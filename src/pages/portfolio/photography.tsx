@@ -11,7 +11,7 @@ import Seo from "@/components/Seo"
 
 import Portfolio from '@/types/Portfolio'
 
-export default function PortfolioPage({ portfolioItems }: {
+export default function PortfolioPhotographyPage({ portfolioItems }: {
   portfolioItems: Portfolio[]
 }){
 
@@ -30,13 +30,13 @@ export default function PortfolioPage({ portfolioItems }: {
         <section>
           <div className="container flex justify-center items-end space-x-4 tracking-wider text-sm">
             <Link 
-              className='p-5 px-8 uppercase border-b-2 border-gray-700' 
+              className='p-5 px-8 uppercase border-b-2 border-white hover:border-gray-200 transition-colors' 
               href="/portfolio"
             >
               Wedding Films
             </Link>
             <Link 
-              className='p-5 px-8 uppercase border-b-2 border-white hover:border-gray-200 transition-colors' 
+              className='p-5 px-8 uppercase border-b-2 border-gray-700' 
               href="/portfolio/photography">
               Wedding Photography
             </Link>
@@ -47,7 +47,7 @@ export default function PortfolioPage({ portfolioItems }: {
         <div className="container max-w-3xl space-y-16">
 
           
-          {
+        {
             portfolioItems.map((item, key) => (
               <>
                 <Link 
@@ -102,11 +102,11 @@ export async function getStaticProps(){
         name,
         location,
         image,
-        category
+        category,
     }
   })
 
-  const portfolioItems = portfolioItemsAll.filter(item => item.category === 'films')
+  const portfolioItems = portfolioItemsAll.filter(item => item.category === 'photography')
 
   return {
     props: {
