@@ -6,7 +6,7 @@ import Dot from '~/svg/dot.svg';
 
 type NavProps = React.ComponentPropsWithoutRef<'div'>;
 
-export default function TopSocket(props: NavProps) {
+export default function Nav (props: NavProps) {
   return (
     <div className='p-4' {...props}>
       <div className='container mx-auto flex flex-wrap items-center justify-center space-x-2 text-sm uppercase tracking-wider'>

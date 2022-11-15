@@ -44,6 +44,7 @@ export default function HomePage() {
             </p>
           </div>
         </section>
+        
         <section className='p-12'>
           <div className='container'>
             <div className='bg-gray-100 p-8'>
@@ -58,7 +59,7 @@ export default function HomePage() {
                 </div>
                 <div className='width-1/2 relative max-w-md grow md:pl-4'>
                   <NextImage
-                    src='/images/ayana.png'
+                    src='/images/ayana.jpg'
                     alt='Ayana + Matthew'
                     width='500'
                     height='300'
