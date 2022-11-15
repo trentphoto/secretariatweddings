@@ -15,14 +15,15 @@ module.exports = {
     },
     letterSpacing: {
       wide: '.1em',
-      wider: '.25em',
-      widest: '.5em',
+      wider: '.15em',
+      widest: '.25em',
     },
     extend: {
       fontFamily: {
         primary: ['Inter', ...fontFamily.sans],
         playfair: ['Playfair Display', ...fontFamily.serif],
-        derivia: ['Derivia'],
+        derivia: ['Derivia', "Playfair Display", ...fontFamily.serif],
+        test: ['Oswald', ...fontFamily.sans],
       },
       colors: {
         primary: {

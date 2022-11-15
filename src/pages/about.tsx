@@ -67,7 +67,7 @@ export default function AboutPage(){
           </div>
         </section>
 
-        <section className='p-12'>
+        <section className='p-12 bg-gray-100'>
           <div className='container'>
             <div className='p-8'>
               <div className='flex flex-col border border-gray-700 p-8 lg:p-16 lg:flex-row-reverse justify-between items-start w-full'>

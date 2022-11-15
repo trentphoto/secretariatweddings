@@ -50,6 +50,11 @@
 }
 
 @layer base {
+  /* default list style type: disc */
+  ul {
+    list-style-type: disc;
+    list-style-position: inside;
+  }
   /* inter var - latin */
   @font-face {
     font-family: 'Inter';
@@ -94,6 +99,15 @@
     font-weight: 400;
     src: local(''), url('/fonts/Derivia-Regular.otf') format('opentype');
   }
+  /* oswald-700 - latin */
+  @font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''),
+        url('/fonts/oswald-v49-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+        url('/fonts/oswald-v49-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
 
   .cursor-newtab {
     cursor: url('/images/new-tab.png') 10 10, pointer;
@@ -131,6 +145,26 @@
 
   .smallcaps {
     @apply font-sans uppercase tracking-wider;
+  }
+
+  /* defaults for blog post content */
+  .content li { 
+    margin-left: 1rem;
+  }
+  .content p, .content li {
+    @apply text-lg mb-2 font-serif;
+  }
+  .content a {
+    @apply font-semibold text-blue-600 dark:text-blue-500 border-b-blue-500 hover:border-b-2 
+  }
+
+  .content h2, .content h3, .content h4 {
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+  }
+
+  .content img {
+    @apply my-8
   }
 
   /* #endregion  /**======== Typography =========== */
