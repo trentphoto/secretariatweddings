@@ -31,7 +31,7 @@ export default function BlogPostPage({ content, date, slug, name, location, imag
             </div>
           </section>
           <section className="py-12">
-            <div className="container max-w-3xl">
+            <div className="container max-w-3xl p-4">
 
               <ArrowLink className="mb-4" direction="left" href="/portfolio">Back to Portfolio</ArrowLink>
               

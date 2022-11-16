@@ -15,7 +15,7 @@ export default function OptinForm({ formName, heading, description, smallcaps, b
     <>
       <div className="flex items-center justify-center">
 
-      <div className="mx-auto rounded-lg shadow-xl bg-white p-12 flex items-stretch space-x-16">
+      <div className="mx-auto rounded-lg shadow-xl bg-white p-12 flex items-start md:items-stretch md:space-x-16 flex-col md:flex-row">
         <div className="flex flex-col items-start space-y-4 w-80">
           
           {
@@ -47,13 +47,17 @@ export default function OptinForm({ formName, heading, description, smallcaps, b
 
         {/* rightside */}
         <div className="overflow-hidden aspect-square	rounded block">
-          <NextImage 
-            src={imageUrl}
-            alt=""
-            width="400"
-            height="400"
-            className="overflow-hidden block rounded shadow aspect-square h-full w-full object-cover	"
-          />
+          <div className="p-6">
+            <div className="w-full relative aspect-square max-w-md">
+              <NextImage 
+                src={imageUrl}
+                alt=""
+                width="400"
+                height="400"
+                className="overflow-hidden block rounded shadow aspect-square h-full w-full object-cover	"
+              />
+            </div>
+          </div>
         </div>
       </div>
 

@@ -39,6 +39,7 @@ export default function BlogPage(props: {
                       width="700"
                       height="400"
                       alt={post.title}
+                      className='h-full'
                       style={{
                         width:'100%',
                         height:'100%',

@@ -22,7 +22,7 @@ export default function AboutPage(){
       <main>
 
 
-      <section className='p-12'>
+      <section className='md:p-12'>
           <div className='container'>
             <div className='bg-gray-100 p-8'>
               <div className='flex flex-col border border-gray-700 p-8 lg:flex-row-reverse justify-between items-start w-full'>
@@ -35,9 +35,9 @@ export default function AboutPage(){
                     className='mb-12 lg:mb-0 rounded-md overflow-hidden shadow-md'
                   />
 
-                <div className='w-1/2 mb-6 md:mb-0'>
+                <div className='md:w-1/2 mb-6 md:mb-0'>
                   <p className='smallcaps mb-4 text-sm'>About Us</p>
-                  <h2 className='mb-6 text-5xl text-gray-600'>Award-Winning East Coast Wedding Cinematography.</h2>
+                  <h2 className='mb-6 text-md md:text-5xl text-gray-600'>Award-Winning East Coast Wedding Cinematography.</h2>
                   <div className="max-w-md">
                     <p className="mb-2">Secretariat is an award-winning East Coast wedding cinematography studio founded by James Trent. Based in Washington, DC, we serve clients all across the East Coast and beyond.</p>
                     <p className="mb-6">With a long history of working with couples to document their special day and create the wedding video of their dreams, Secretariat Media was founded on the principles of filmmaking to create an an authentic, creative, and memorable finished product.</p>
@@ -67,7 +67,7 @@ export default function AboutPage(){
           </div>
         </section>
 
-        <section className='p-12 bg-gray-100'>
+        <section className='md:p-12 bg-gray-100'>
           <div className='container'>
             <div className='p-8'>
               <div className='flex flex-col border border-gray-700 p-8 lg:p-16 lg:flex-row-reverse justify-between items-start w-full'>

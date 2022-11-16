@@ -22,13 +22,13 @@ export default function PortfolioPage({ portfolioItems }: {
 
       <main>
         <section className="py-20 bg-gray-100 text-left">
-          <div className="container max-w-4xl flex items-center space-x-20">
+          <div className="container max-w-4xl md:flex items-center md:space-x-20 px-12 space-y-4">
             <h1 className='font-bold text-5xl max-w-md'>Portfolio</h1>
             <p className=''>View our films and photography below. Check back frequently as we are always adding more weddings to this page.</p>
           </div>
         </section>
         <section>
-          <div className="container flex justify-center items-end space-x-4 tracking-wider text-sm">
+          <div className="container flex justify-center items-end space-x-4 text-center tracking-wider text-sm">
             <Link 
               className='p-5 px-8 uppercase border-b-2 border-gray-700' 
               href="/portfolio"

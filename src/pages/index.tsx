@@ -45,10 +45,10 @@ export default function HomePage() {
           </div>
         </section>
         
-        <section className='p-12'>
+        <section className='md:p-12'>
           <div className='container'>
             <div className='bg-gray-100 p-8'>
-              <div className='flex flex-col border border-gray-700 p-8 md:flex-row'>
+              <div className='flex flex-col-reverse border border-gray-700 p-8 md:flex-row'>
                 <div className='width-1/2 mb-6 md:mb-0'>
                   <p className='smallcaps mb-4 text-sm'>Latest film</p>
                   <h2 className='mb-6 max-w-md'>
@@ -57,7 +57,7 @@ export default function HomePage() {
                   </h2>
                   <ButtonLink href='/'>Watch the Film</ButtonLink>
                 </div>
-                <div className='width-1/2 relative max-w-md grow md:pl-4'>
+                <div className='width-1/2 relative max-w-md grow mb-4 md:mb-0 md:pl-4'>
                   <NextImage
                     src='/images/ayana.jpg'
                     alt='Ayana + Matthew'
@@ -139,9 +139,9 @@ export default function HomePage() {
           </div>
         </section>
 
-        <section className='p-12'>
+        <section className='md:p-12'>
           <div className='container'>
-            <div className='bg-gray-100 p-8'>
+            <div className='bg-gray-100 p-4 md:p-8'>
               <div className='flex flex-row items-stretch border border-gray-700 p-8'>
                 <div className='width-1/2 mb-6 max-w-none sm:max-w-md md:mb-0'>
                   <p className='smallcaps mb-4 text-sm'>
@@ -187,13 +187,16 @@ export default function HomePage() {
               </p>
               <ButtonLink href='/l/shotlist'>Download for Free</ButtonLink>
             </div>
-            <NextImage
-              src='/images/shotlist.jpeg'
-              alt='Shot List'
-              width='400'
-              height='400'
-              className='p-6'
-            />
+            <div className="p-6">
+              <div className="w-full relative aspect-square max-w-md">
+                <NextImage
+                  src='/images/shotlist.jpeg'
+                  alt='Shot List'
+                  layout='fill'
+                  className='p-6'
+                />
+              </div>
+            </div>
           </div>
         </section>
       </main>

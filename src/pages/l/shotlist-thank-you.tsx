@@ -11,7 +11,7 @@ export default function ShotListPage(){
       <Seo />
       <Header minimal />
       <main>
-        <div className="py-16">
+        <div className="py-16 px-4">
           <div className="container space-y-4 max-w-3xl">
             <h1 className="text-4xl font-bold">Oh yeah!</h1>
             <p>Your shot list is here! Click the button below to access it.</p>

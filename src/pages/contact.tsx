@@ -26,7 +26,7 @@ export default function ContactPage(){
         </section>
 
         <section>
-          <div className="container max-w-xl">
+          <div className="container max-w-xl p-4">
             <h2 className="text-5xl">Contact Us</h2>
             <p className="text-lg mb-4">You can use the form below to get in touch with us.</p>
             <form 

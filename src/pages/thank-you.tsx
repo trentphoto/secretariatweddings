@@ -8,7 +8,7 @@ export default function DefaultThankYouPage(){
     <Layout>
       <Header minimal />
       <main>
-        <div className="py-16 container max-w-3xl space-y-4">
+        <div className="py-16 px-4 container max-w-3xl space-y-4">
           <h1>Thank you!</h1>
           <p>We've received your submission and will be in touch shortly.</p>
           

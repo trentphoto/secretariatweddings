@@ -9,24 +9,40 @@ type NavProps = React.ComponentPropsWithoutRef<'div'>;
 export default function Nav (props: NavProps) {
   return (
     <div className='p-4' {...props}>
-      <div className='container mx-auto flex flex-wrap items-center justify-center space-x-2 text-sm uppercase tracking-wider'>
-        <ButtonLink variant='nav' href='/'>
+      <div className='
+      container grid grid-cols-3 md:flex flex-wrap items-center justify-center space-x-2 
+
+      text-sm uppercase tracking-wider
+      '
+      style={{
+        gridTemplateColumns: '1fr 23px 1fr'
+      }}
+      >
+        <ButtonLink variant='nav' href='/' className='justify-self-end'>
           Home
         </ButtonLink>
-        <Dot />
+        <div>
+          <Dot />
+        </div>
         <ButtonLink variant='nav' href='/about'>
           About
         </ButtonLink>
-        <Dot />
-        <ButtonLink variant='nav' href='/portfolio'>
+        <div className="hidden md-inline-block">
+          <Dot />
+        </div>
+        <ButtonLink variant='nav' href='/portfolio' className='justify-self-end'>
           Portfolio
         </ButtonLink>
-        <Dot />
+        <div>
+          <Dot />
+        </div>
         <ButtonLink variant='nav' href='/reviews'>
           Reviews
         </ButtonLink>
-        <Dot />
-        <ButtonLink variant='nav' href='/blog'>
+        <div className="hidden md-inline-block">
+          <Dot />
+        </div>
+        <ButtonLink variant='nav' href='/blog' className='justify-self-end'>
           Blog
         </ButtonLink>
         <Dot />

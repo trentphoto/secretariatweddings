@@ -17,7 +17,11 @@ return (
       <TopSocket />
       <header className=''>
         <div className="container flex flex-col items-center">
-          <Logo width='500' height='160' alt='Secretariat Wedding Films' />
+            <div className="max-w-full mx-4">
+              <Logo width='500' height='160' alt='Secretariat Wedding Films' style={{
+                maxWidth:'100%'
+              }} />
+            </div>
           { minimal ? '' : <Nav />}
         </div>
 

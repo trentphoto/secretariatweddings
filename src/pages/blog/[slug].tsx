@@ -23,13 +23,13 @@ export default function BlogPostPage({ content, date, slug, title, subtitle, ima
         <Header />
 
         <main>
-          <section className="py-20 bg-gray-100 text-center">
+          <section className="py-20 px-4 bg-gray-100 text-center">
             <div className="container max-w-3xl space-y-3">
               <h1 className='font-bold'>{title}</h1>
               <p className='smallcaps'>{subtitle}</p>
             </div>
           </section>
-          <section className="py-12">
+          <section className="py-12 px-4">
             <div className="container max-w-3xl">
               <NextImage 
                 src={image}
@@ -37,6 +37,11 @@ export default function BlogPostPage({ content, date, slug, title, subtitle, ima
                 height="200"
                 className='h-72 flex items-center mb-12 shadow-md rounded-xl overflow-hidden'
                 alt={title}
+                style={{
+                  width:'100%',
+                  height:'100%',
+                  objectFit:'cover'
+                }}
               />
               
               <div 
