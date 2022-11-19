@@ -2,7 +2,7 @@
 title: 'Bridal Prep: How to get the best Getting-Ready Photos'
 slug: bridal-prep-how-to-get-best-getting-ready-photos
 date: '2022-11-19'
-subtitle: With these 10 tips, you'll be able to 
+subtitle: These 10 tips will help you prepare well, so you can relax, have fun, and have your wedding photos turn out beautifully.
 image: https://res.cloudinary.com/dakfmjumy/image/upload/v1668888826/content/posts/62e9a3cd1bd1f573ec71761e_AM3I3404_a6dolm_bydqrs.jpg
 ---
 
