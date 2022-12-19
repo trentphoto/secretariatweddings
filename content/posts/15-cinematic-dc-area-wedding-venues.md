@@ -30,7 +30,7 @@ It’s great to talk to your planner as well as photographer and videographer be
 
 If you already booked the venue, no worries - your wedding team will still be able to talk with you about your venue! (Although if you already have a venue, I’m not sure why you are reading this particular post)… 😅
 
-## Top 13 Cinematic Wedding Venues in the DC / Maryland / Norther Virginia Area
+## Top 13 Cinematic Wedding Venues in the DC, Maryland, & Northern Virginia Areas
 
 ### 1. **Lansdowne Resort + Spa**
 
