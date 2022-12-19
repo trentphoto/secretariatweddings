@@ -76,7 +76,7 @@ To utilize this template, you have two options.
 
 First, you can download it and fill it in using a PDF editor, like Adobe Acrobat.
 
-You can download a PDF version [here](https://res.cloudinary.com/dakfmjumy/image/upload/v1668489900/630d2f3e2de75ccb1c8bad2d_Secretariat_Media_-_Wedding_Guest_List_Template_zcnbl4.pdf).
+You can download a PDF version [here](https://asset.cloudinary.com/dakfmjumy/9bf5f09bad72006735b40b815c0a71a7).
 
 Not the most user-friendly option though, unless you are very familiar with tools like Acrobat.
 
