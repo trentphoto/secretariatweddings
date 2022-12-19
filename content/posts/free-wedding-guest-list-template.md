@@ -3,7 +3,7 @@ title: Free Wedding Guest List Template
 slug: free-wedding-guest-list-template
 date: '2022-08-29'
 subtitle: Use this template to organize and track your guest list.
-image: https://asset.cloudinary.com/dakfmjumy/9bf5f09bad72006735b40b815c0a71a7
+image: https://res.cloudinary.com/dakfmjumy/image/upload/v1668490154/free-wedding-guest-list-template_jfjv7o.jpg
 ---
 
 **Quick link:** [Click here to view the Canva template and make your own copy to use.](https://www.canva.com/design/DAFVOP9jSGE/d3oYKPkaPmIZ_0Lt2Lf1Pg/view).
