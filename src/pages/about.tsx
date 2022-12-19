@@ -38,21 +38,24 @@ export default function AboutPage() {
                     Award-Winning East Coast Wedding Cinematography.
                   </h2>
                   <div className='max-w-md'>
+                    <p className='mb-2'>Your wedding day is a once-in-a-lifetime event.</p>
+                    <p className='mb-2'>And it’s my belief that you should have a beautiful and timeless record of it.</p>
+                    <p className='mb-2'>That's why I started Secretariat Media.</p>
                     <p className='mb-2'>
-                      Secretariat is an award-winning East Coast wedding
-                      cinematography studio founded by James Trent. Based in
-                      Washington, DC, we serve clients all across the East Coast
-                      and beyond.
+                      My team and I use state-of-the-art equipment and a cinematic, documentary-focused approach to capture every emotion and detail of your day. 
                     </p>
-                    <p className='mb-6'>
-                      With a long history of working with couples to document
-                      their special day and create the wedding video of their
-                      dreams, Secretariat Media was founded on the principles of
-                      filmmaking to create an an authentic, creative, and
-                      memorable finished product.
+                    <p className='mb-2'>
+                      From the vows and speeches to the first dance and bouquet toss, we make it our duty to capture every moment, every aspect of your day, and preserve it for you to treasure for years to come.
                     </p>
+                    <p className='mb-2'>
+                      Our films are much more than a record of your day - they are art. We carefully craft each edit to bring your love story to life and do our best to capture the essence of your relationship.
+                    </p>
+                    <p className='mb-2'>
+                      We aren’t for everyone. But for those we work with, we commit ourselves to making the wedding film you’ve always dreamed of.
+                    </p>
+                    <p className='mb-2'>Contact us today to start planning your dream wedding videography package.</p>
                   </div>
-                  <ButtonLink href='/'>Watch the Film</ButtonLink>
+                  <ButtonLink href='/contact'>Set up a Call</ButtonLink>
                 </div>
               </div>
             </div>
