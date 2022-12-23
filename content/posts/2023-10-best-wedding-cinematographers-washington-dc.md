@@ -27,7 +27,7 @@ Ok, enough about us! On with the rest of the list :)
 
 ## 2\. Paperboys
 
-![](https://res.cloudinary.com/dakfmjumy/image/upload/v1668490426/62fbd9a25b25d949dcc661c4_Paperboys_Wordmark_Squared-Knockout_White_500px_liq2ms.png)
+![](https://res.cloudinary.com/dakfmjumy/image/upload/v1671811480/Paperboys_Wordmark_uty2ri.png)
 
 Paperboys is a team of photographers and videographers providing boutique services to clients in the Washington DC area and more. View their work on [their website](https://www.paperboys.co/).
 
