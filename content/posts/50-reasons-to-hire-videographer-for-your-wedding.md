@@ -344,4 +344,4 @@ The process varies by videographer. But for us, it’s a simple contract and onl
 
 If you’ve made it this far, let’s face it - we were made for each other!
 
-Click here and set up a call with us today. We’d be honored to document your wedding day for you.
+[Click here](https://secretariat.video/contact) and set up a call with us today. We’d be honored to document your wedding day for you.
