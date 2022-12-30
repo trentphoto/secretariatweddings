@@ -18,7 +18,7 @@ The truth is, [about 2/3 of brides hire a videographer](https://secretariat.vide
 
 Maybe you're worried about the cost, or maybe you just don't feel comfortable being on camera. Whatever your reasons — this article is for you.
 
-In this post, we'll explore 20 reasons brides might not hire a videographer — and why you might want to reconsider them!
+In this post, we'll explore 10 reasons brides might not hire a videographer — and why you might want to reconsider them!
 
 We'll look at the cost, the time and effort involved, and the personal preferences that factor into your decision. And we'll discuss why, in the end, a wedding video is [almost always worth it](https://secretariat.video/blog/50-reasons-to-hire-videographer-for-your-wedding).
 
