@@ -86,8 +86,6 @@ With a bit of research, you can usually find the average pricing for the best vi
 
 ## Finding a videographer on the internet: what to look for
 
-![How Much Does A Wedding Videographer Cost?](https://images.pexels.com/photos/2959192/pexels-photo-2959192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
-
 There are _tons_ of free online resources to find your ideal vendors, including your videographer.
 
 You can look at their work, read reviews, and then contact them to see if theyâ€™re the right fit.
@@ -95,13 +93,9 @@ You can look at their work, read reviews, and then contact them to see if theyâ€
 Here are a few examples and places you can start:
 
 - WeddingWire and TheKnot
-
 - WeddingMinute
-
 - Wedding-Spot
-
 - Here Comes the Guide
-
 - Zola
 
 When looking at videographers' sites, take a look at their portfolio and see what _quality_ they provide. Make sure to look at several and compare their styles before making your final choice. I recommend talking to multiple videographers too, before making a final decision.
@@ -174,6 +168,8 @@ From filming, they likely have a _very specific vision_ for your wedding film. T
 
 For that reason, a separately edited video will likely not accurately reflect your wedding day.
 
+![How Much Does A Wedding Videographer Cost?](https://images.pexels.com/photos/2959192/pexels-photo-2959192.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
+
 ## Wedding Videography Package: A Sample
 
 Please note: these are not our packages - these are simply a sample of what is commonly offered in the industry.
@@ -181,57 +177,35 @@ Please note: these are not our packages - these are simply a sample of what is c
 ### Basic Package
 
 - Full-day coverage of the wedding ceremony and reception (up to 8 hours)
-
 - **1 videographer** to capture different angles and perspectives
-
 - HD (1080p) video footage captured using professional cameras and lenses
-
 - A highlight film (up to 5 minutes in length) that showcases the best moments of the day
-
 - Digital delivery of highlight film via online download
-
 - Price: $2,500
 
 ### Deluxe Package
 
 - Full-day coverage of the wedding ceremony and reception (up to 8 hours)
-
 - **2 videographers** to capture different angles and perspectives
-
 - High-definition video footage captured using professional cameras and lenses
-
 - Aerial footage of the ceremony and reception location (if allowed, and weather permitting)
-
 - A highlight film (up to 5 minutes in length) that showcases the best moments of the day
-
 - A feature-length wedding film, 30-60min in length
-
 - Digital delivery of the highlight film and feature film via online download
-
 - Price: $4,500
 
 ### Premium Package
 
 - Full-day coverage of the wedding ceremony and reception (up to 8 hours)
-
 - **2 videographers** to capture different angles and perspectives
-
 - High-definition video footage captured using professional cameras and lenses
-
 - Aerial footage of the ceremony and reception location (if allowed and weather permitting)
-
 - Editing of the footage to create a finished feature-length wedding film (up to 60 minutes in length)
-
 - A highlight film (up to 5 minutes in length) that showcases the best moments of the day
-
 - Digital delivery of the finished film and highlight reel via online download
-
 - A physical copy of the finished film and highlight reel on Blu-ray or DVD
-
 - A "teaser" trailer (up to 2 minutes in length) that can be shared on social media
-
 - An engagement shoot (up to 2 hours) to capture footage of the couple before the wedding
-
 - Price: $6,500
 
 ## In Summary
