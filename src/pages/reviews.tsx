@@ -49,34 +49,34 @@ export default function ReviewsPage(){
                 <div className="p-4">
                   <p className="mb-4">Truly a captivating experience. We just want to thank you so much for being with us on our special day - we had so much fun!</p>
                   <p className="font-bold">Elisha + Davin</p>
-                  <p className="italic">Elisha + Davin</p>
+                  <p className="italic">Married in Trenton, NJ</p>
                 </div>
               </div>
 
               <div className="p-12 flex flex-col items-start border border-gray-800">
                 <NextImage className="w-full mb-6" src={Review2} width="400" height="250" alt="Elisa + Davin" />
                 <div className="p-4">
-                  <p className="mb-4">Truly a captivating experience. We just want to thank you so much for being with us on our special day - we had so much fun!</p>
-                  <p className="font-bold">Elisha + Davin</p>
-                  <p className="italic">Elisha + Davin</p>
+                  <p className="mb-4">Thank you for everything you did with the video! We hired you last minute, and we’re very thankful for you and your expertise… Great guy, and we appreciate you very much.</p>
+                  <p className="font-bold">Doug + Anna</p>
+                  <p className="italic">Married in Burke, VA</p>
                 </div>
               </div>
               
               <div className="p-12 flex flex-col items-start border border-gray-800">
                 <NextImage className="w-full mb-6" src={Review3} width="400" height="250" alt="Elisa + Davin" />
                 <div className="p-4">
-                  <p className="mb-4">Truly a captivating experience. We just want to thank you so much for being with us on our special day - we had so much fun!</p>
-                  <p className="font-bold">Elisha + Davin</p>
-                  <p className="italic">Elisha + Davin</p>
+                  <p className="mb-4">Simply phenomenal experience. You guys went above and beyond to capture every detail of our day. It was such a privilege to work with you guys!</p>
+                  <p className="font-bold">Adhton + Cameron</p>
+                  <p className="italic">Married in State College, PA</p>
                 </div>
               </div>
               
               <div className="p-12 flex flex-col items-start border border-gray-800">
                 <NextImage className="w-full mb-6" src={Review4} width="400" height="250" alt="Elisa + Davin" />
                 <div className="p-4">
-                  <p className="mb-4">Truly a captivating experience. We just want to thank you so much for being with us on our special day - we had so much fun!</p>
-                  <p className="font-bold">Elisha + Davin</p>
-                  <p className="italic">Elisha + Davin</p>
+                  <p className="mb-4">Thank you for your effort and vision you had of us and our families on our special day. James was so responsive, shot every thing we asked and more! You guys were incredible!</p>
+                  <p className="font-bold">Matthew + Ayana</p>
+                  <p className="italic">Married in Bealeton, VA</p>
                 </div>
               </div>
               
