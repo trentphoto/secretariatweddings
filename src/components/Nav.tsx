@@ -6,17 +6,18 @@ import Dot from '~/svg/dot.svg';
 
 type NavProps = React.ComponentPropsWithoutRef<'div'>;
 
-export default function Nav (props: NavProps) {
+export default function Nav(props: NavProps) {
   return (
     <div className='p-4' {...props}>
-      <div className='
-      container grid grid-cols-3 md:flex flex-wrap items-center justify-center space-x-2 
+      <div
+        className='
+      container grid grid-cols-3 flex-wrap items-center justify-center space-x-2 text-sm 
 
-      text-sm uppercase tracking-wider
+      uppercase tracking-wider md:flex
       '
-      style={{
-        gridTemplateColumns: '1fr 23px 1fr'
-      }}
+        style={{
+          gridTemplateColumns: '1fr 23px 1fr',
+        }}
       >
         <ButtonLink variant='nav' href='/' className='justify-self-end'>
           Home
@@ -27,10 +28,14 @@ export default function Nav (props: NavProps) {
         <ButtonLink variant='nav' href='/about'>
           About
         </ButtonLink>
-        <div className="hidden md-inline-block">
+        <div className='hidden md:inline-block'>
           <Dot />
         </div>
-        <ButtonLink variant='nav' href='/portfolio' className='justify-self-end'>
+        <ButtonLink
+          variant='nav'
+          href='/portfolio'
+          className='justify-self-end'
+        >
           Portfolio
         </ButtonLink>
         <div>
@@ -39,7 +44,7 @@ export default function Nav (props: NavProps) {
         <ButtonLink variant='nav' href='/reviews'>
           Reviews
         </ButtonLink>
-        <div className="hidden md-inline-block">
+        <div className='hidden md:inline-block'>
           <Dot />
         </div>
         <ButtonLink variant='nav' href='/blog' className='justify-self-end'>
@@ -53,4 +58,3 @@ export default function Nav (props: NavProps) {
     </div>
   );
 }
-
