@@ -77,7 +77,7 @@ export default function ContactPage() {
               <button
                 className='rounded-none border border-gray-600 bg-gray-700 px-8 py-3 font-sans text-sm font-light uppercase tracking-wide text-white hover:bg-gray-600 active:bg-gray-500 disabled:bg-gray-500'
                 type='submit'
-                form='contact'
+                form='contactForm'
               >
                 Submit
               </button>
