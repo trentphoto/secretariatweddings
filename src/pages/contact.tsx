@@ -36,8 +36,8 @@ export default function ContactPage() {
             </p>
             <form
               className='w-sm flex flex-col items-stretch space-y-4'
-              name='contact'
-              id='contact'
+              name='contactForm'
+              id='contactForm'
               action='/thank-you'
               method='POST'
               netlify
