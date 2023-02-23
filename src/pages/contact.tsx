@@ -42,6 +42,8 @@ export default function ContactPage() {
               method='POST'
               netlify
             >
+              <input type='hidden' name='form-name' value='contactForm' />
+
               <input
                 className='border border-gray-500 p-2 px-3'
                 type='text'
