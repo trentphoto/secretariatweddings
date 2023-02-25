@@ -2,7 +2,7 @@
 name: Kyhna + Halim
 slug: kyhna-halim
 location: Newark, DE
-image:
+image: 'https://res.cloudinary.com/dakfmjumy/image/upload/v1677361528/content/portfolio/kyhna-halim/221014-highlights-16_t9hdfq.jpg'
 category: photography
 date: '2022-11-02'
 ---
