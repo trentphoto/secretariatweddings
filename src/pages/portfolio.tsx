@@ -56,13 +56,17 @@ export default function PortfolioPage({
                   href={`/portfolio/${item.slug}`}
                   className='block p-12 shadow transition-shadow hover:shadow-md'
                 >
-                  <NextImage
-                    src={item.image}
-                    alt={item.name}
-                    width='768'
-                    height='300'
-                    className='mb-8 overflow-hidden rounded'
-                  />
+                  {item.image ? (
+                    <NextImage
+                      src={item.image}
+                      alt={item.name}
+                      width='768'
+                      height='300'
+                      className='mb-8 overflow-hidden rounded'
+                    />
+                  ) : (
+                    ''
+                  )}
                   <h3 className='mb-2 font-derivia text-3xl font-normal uppercase tracking-wider'>
                     {item.name}
                   </h3>
