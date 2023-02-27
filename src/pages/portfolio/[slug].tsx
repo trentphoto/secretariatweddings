@@ -19,11 +19,12 @@ export default function BlogPostPage({
   name,
   location,
   youtube,
+  image,
 }: Portfolio) {
   return (
     <>
       <Layout>
-        <Seo />
+        <Seo templateTitle={name} image={image} />
         <Header />
 
         <main>

@@ -18,7 +18,10 @@ export default function PortfolioPhotographyPage({
 }) {
   return (
     <Layout>
-      <Seo />
+      <Seo
+        templateTitle='Timeless Wedding Photography | Secretariat Media'
+        image='/images/photo-og.jpg'
+      />
       <Header />
 
       <main>
