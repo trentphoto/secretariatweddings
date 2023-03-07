@@ -13,7 +13,7 @@ export default function Footer() {
         <div className='container flex flex-col items-center justify-center space-y-20'>
           <Nav className='' />
 
-          <div className='flex items-center gap-8 grayscale'>
+          <div className='flex flex-col items-center gap-8 grayscale sm:flex-row'>
             <p>Featured on...</p>
 
             <WeddingMinuteLogo
