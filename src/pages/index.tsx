@@ -39,8 +39,7 @@ export default function HomePage() {
               Award-winning East Coast Wedding Filmmaker
             </h1>
             <p className='smallcaps mt-2 text-xs'>
-              Washington DC • Maryland • Virginia • Delaware • Pennsylvania •
-              New York • New England • Carolinas
+              DC • MD • VA • DE • PA • NJ
             </p>
           </div>
         </section>
