@@ -49,17 +49,16 @@ export default function HomePage() {
             <div className='bg-gray-100 p-8'>
               <div className='flex flex-col-reverse border border-gray-700 p-8 md:flex-row'>
                 <div className='width-1/2 mb-6 md:mb-0'>
-                  <p className='smallcaps mb-4 text-sm'>Latest film</p>
+                  <p className='smallcaps mb-4 text-sm'>Recent film</p>
                   <h2 className='mb-6 max-w-md'>
-                    Ayana + Matthew: A Gorgeous Summer Wedding at Morais
-                    Vineyards
+                    Joell + Chris's Highlight Film
                   </h2>
-                  <ButtonLink href='/'>Watch the Film</ButtonLink>
+                  <ButtonLink href='/portfolio/cape-may-highlight'>Watch the Film</ButtonLink>
                 </div>
                 <div className='width-1/2 relative max-w-md grow mb-4 md:mb-0 md:pl-4'>
                   <NextImage
-                    src='/images/ayana.jpg'
-                    alt='Ayana + Matthew'
+                    src='https://res.cloudinary.com/dakfmjumy/image/upload/v1678397314/content/portfolio/previewImage/joell-chris_e5lrje.webp'
+                    alt='Joell + Chris'
                     width='500'
                     height='300'
                     className='w-full'
@@ -96,11 +95,10 @@ export default function HomePage() {
         <section className='p-8 py-24'>
           <div className='container flex flex-col items-center text-center'>
             <h2 className='mb-2 font-derivia text-3xl font-bold uppercase tracking-wide'>
-              Serving the entire East Coast region
+              Serving the East Coast region and beyond
             </h2>
             <p className='smallcaps mb-8 text-xs'>
-              Washington DC • Maryland • Virginia • Delaware • Pennsylvania •
-              New York • New England • Carolinas
+              DC • MD • VA • DE • PA • NJ
             </p>
             <div className='mb-8 grid grid-cols-2 gap-4 md:grid-cols-4'>
               <NextImage
