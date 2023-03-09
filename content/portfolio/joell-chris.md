@@ -1,8 +1,8 @@
 ---
-name: Cape May Highlight Film: Joell + Chris
+name: "Cape May Highlight Film: Joell + Chris"
 slug: cape-may-highlight
 location: Cape May, NJ
-image: https://res.cloudinary.com/dakfmjumy/image/upload/v1678397314/content/portfolio/previewImage/joell-chris_e5lrje.webp
+image: "https://res.cloudinary.com/dakfmjumy/image/upload/v1678397314/content/portfolio/previewImage/joell-chris_e5lrje.webp"
 category: films
 date: '2023-03-01'
 youtube: "co-epJ6rBhw"
