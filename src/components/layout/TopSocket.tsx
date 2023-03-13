@@ -10,11 +10,11 @@ export default function TopSocket() {
     <div className='bg-gray-50 p-2 text-sm'>
       <div className='container mx-auto'>
         <div className='flex items-center justify-center space-x-2'>
-          <span>See our latest work and stories @secretariatvideo</span>
+          <span>See our latest work and stories @secretariatmedia</span>
           <ButtonLink
             variant='light'
             className='relative rounded-md p-3 transition-colors hover:bg-gray-200'
-            href='https://instagram.com/secretariatvideo'
+            href='https://instagram.com/secretariatmedia'
           >
             <NextImage
               useSkeleton
