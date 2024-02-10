@@ -43,7 +43,7 @@ export default function HomePage() {
             </p>
           </div>
         </section>
-        
+
         <section className='md:p-12'>
           <div className='container'>
             <div className='bg-gray-100 p-8'>
@@ -53,9 +53,11 @@ export default function HomePage() {
                   <h2 className='mb-6 max-w-md'>
                     Joell + Chris's Highlight Film
                   </h2>
-                  <ButtonLink href='/portfolio/cape-may-highlight'>Watch the Film</ButtonLink>
+                  <ButtonLink href='/portfolio/cape-may-highlight'>
+                    Watch the Film
+                  </ButtonLink>
                 </div>
-                <div className='width-1/2 relative max-w-md grow mb-4 md:mb-0 md:pl-4'>
+                <div className='width-1/2 relative mb-4 max-w-md grow md:mb-0 md:pl-4'>
                   <NextImage
                     src='https://res.cloudinary.com/dakfmjumy/image/upload/v1678397314/content/portfolio/previewImage/joell-chris_e5lrje.webp'
                     alt='Joell + Chris'
@@ -69,12 +71,28 @@ export default function HomePage() {
           </div>
         </section>
 
-        <section className='p-8'>
+        <section className='px-8 py-24'>
           <div className='container text-center'>
             <h2 className='mb-6'>
               Your wedding day happens only once. Relive it forever.
             </h2>
             <ButtonLink href='/portfolio'>View Our Portfolio</ButtonLink>
+          </div>
+        </section>
+
+        <section className='p-4'>
+          <div className='container text-center'>
+            <div className='bg-gray-50 p-8'>
+              <div className='flex flex-col items-center gap-4 border border-gray-700 p-12'>
+                <h2 className='mb-0 text-7xl italic text-neutral-700'>
+                  Our goal
+                </h2>
+                <p className='mb-8 text-xl'>
+                  is to have every couple recommend us.
+                </p>
+                <ButtonLink href='/reviews'>See Reviews</ButtonLink>
+              </div>
+            </div>
           </div>
         </section>
 
@@ -184,8 +202,8 @@ export default function HomePage() {
               </p>
               <ButtonLink href='/l/shotlist'>Download for Free</ButtonLink>
             </div>
-            <div className="p-6">
-              <div className="w-full relative aspect-square max-w-md">
+            <div className='p-6'>
+              <div className='relative aspect-square w-full max-w-md'>
                 <NextImage
                   src='/images/shotlist.jpeg'
                   alt='Shot List'
