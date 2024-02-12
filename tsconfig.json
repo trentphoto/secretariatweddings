@@ -18,6 +18,7 @@
       "@/*": ["./src/*"],
       "~/*": ["./public/*"]
     },
+    "typeRoots": ["./node_modules/@types", "./src/types"],
     "incremental": true
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/lib/posts.ts"],
