@@ -38,22 +38,42 @@ export default function AboutPage() {
                     Award-Winning East Coast Wedding Cinematography.
                   </h2>
                   <div className='max-w-md'>
-                    <p className='mb-2'>Your wedding day is a once-in-a-lifetime event.</p>
-                    <p className='mb-2'>And it’s my belief that you should have a beautiful and timeless record of it.</p>
-                    <p className='mb-2'>That's why I started Secretariat Media.</p>
                     <p className='mb-2'>
-                      My team and I use state-of-the-art equipment and a cinematic, documentary-focused approach to capture every emotion and detail of your day. 
+                      Your wedding day is a once-in-a-lifetime event.
                     </p>
                     <p className='mb-2'>
-                      From the vows and speeches to the first dance and bouquet toss, we make it our duty to capture every moment, every aspect of your day, and preserve it for you to treasure for years to come.
+                      And it’s my belief that you should have a beautiful and
+                      timeless record of it.
                     </p>
                     <p className='mb-2'>
-                      Our films are much more than a record of your day - they are art. We carefully craft each edit to bring your love story to life and do our best to capture the essence of your relationship.
+                      That's why I started Secretariat Media.
                     </p>
                     <p className='mb-2'>
-                      We aren’t for everyone. But for those we work with, we commit ourselves to making the wedding film you’ve always dreamed of.
+                      My team and I use state-of-the-art equipment and a
+                      cinematic, documentary-focused approach to capture every
+                      emotion and detail of your day.
                     </p>
-                    <p className='mb-2'>Contact us today to start planning your dream wedding videography package.</p>
+                    <p className='mb-2'>
+                      From the vows and speeches to the first dance and bouquet
+                      toss, we make it our duty to capture every moment, every
+                      aspect of your day, and preserve it for you to treasure
+                      for years to come.
+                    </p>
+                    <p className='mb-2'>
+                      Our films are much more than a record of your day - they
+                      are art. We carefully craft each edit to bring your love
+                      story to life and do our best to capture the essence of
+                      your relationship.
+                    </p>
+                    <p className='mb-2'>
+                      We aren’t for everyone. But for those we work with, we
+                      commit ourselves to making the wedding film you’ve always
+                      dreamed of.
+                    </p>
+                    <p className='mb-2'>
+                      Contact us today to start planning your dream wedding
+                      videography package.
+                    </p>
                   </div>
                   <ButtonLink href='/contact'>Set up a Call</ButtonLink>
                 </div>
@@ -68,27 +88,31 @@ export default function AboutPage() {
               Using only the best state-of-the-art equipment
             </h1>
             <div className='mx-auto grid max-w-md grid-cols-2 items-center gap-12 p-2 opacity-70 grayscale md:max-w-3xl md:grid-cols-4'>
-              <LogoDji width='200' height='200' alt='DJI' className='w-full' />
+              <LogoDji
+                width='200'
+                height='200'
+                aria-label='DJI'
+                className='w-full'
+              />
               <Logo1d
                 width='200'
                 height='200'
-                alt='Canon EOS 1D'
+                aria-label='Canon EOS 1D'
                 viewBox='0 0 800 250'
                 className='w-full'
               />
               <LogoAtomos
                 width='200'
                 height='200'
-                alt='Atomos'
+                aria-label='Atomos'
                 className='w-full'
               />
               <LogoBlackMagic
                 width='200'
                 height='200'
-                alt='BlackMagicDesign'
+                aria-label='BlackMagicDesign'
                 className='w-full'
               />
-
               <NextImage
                 src={logoCanon}
                 width='200'

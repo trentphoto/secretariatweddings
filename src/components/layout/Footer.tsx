@@ -11,36 +11,30 @@ export default function Footer() {
     <>
       <footer className='p-24'>
         <div className='container flex flex-col items-center justify-center space-y-20'>
-          <Nav className='' />
+          <Nav />
 
           <div className='flex flex-col items-center gap-8 grayscale sm:flex-row'>
             <p>Featured on...</p>
-
             <WeddingMinuteLogo
               width='160'
               height='40'
-              className=''
-              alt='WeddingMinute'
+              aria-label='WeddingMinute'
             />
-
             <NextImage
               src='/images/zola.png'
               width='100'
               height='100'
               alt='zola'
-              className=''
             />
-
             <NextImage
               src='/images/petapixel.webp'
               width='100'
               height='100'
               alt='PetaPixel'
-              className=''
             />
           </div>
 
-          <Flourish width='200' height='50' className='' />
+          <Flourish width='200' height='50' />
 
           <p>© 2022 Secretariat Media, LLC.</p>
         </div>

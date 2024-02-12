@@ -24,7 +24,7 @@ export default function HomeHero() {
         {/* <NextImage layout='fill' objectFit='cover' src={HeroImage} alt='hero' className='z-0' /> */}
       </div>
       <div className='container relative z-20 mx-auto flex items-center justify-center p-4'>
-        <Logo width='700' height='300' alt='Secretariat Wedding Films' />
+        <Logo width='700' height='300' aria-label='Secretariat Wedding Films' />
       </div>
     </div>
   );
