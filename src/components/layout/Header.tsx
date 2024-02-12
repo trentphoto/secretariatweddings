@@ -1,9 +1,9 @@
 import * as React from 'react';
 
 import TopSocket from '@/components/layout/TopSocket';
-import Nav from '@/components/Nav'
+import Nav from '@/components/Nav';
 
-import Logo from '~/svg/logo-main-header.svg'
+import Logo from '~/svg/logo-main-header.svg';
 
 // const links = [
 // { href: '/', label: 'Route 1' },
@@ -11,22 +11,24 @@ import Logo from '~/svg/logo-main-header.svg'
 // ];
 
 export default function Header({ minimal }: { minimal?: boolean }) {
-return (
+  return (
     <>
-
       <TopSocket />
       <header className=''>
-        <div className="container flex flex-col items-center">
-            <div className="max-w-full mx-4">
-              <Logo width='500' height='160' alt='Secretariat Wedding Films' style={{
-                maxWidth:'100%'
-              }} />
-            </div>
-          { minimal ? '' : <Nav />}
+        <div className='container flex flex-col items-center'>
+          <div className='mx-4 max-w-full'>
+            <Logo
+              width='500'
+              height='160'
+              alt='Secretariat Wedding Films'
+              style={{
+                maxWidth: '100%',
+              }}
+            />
+          </div>
+          {minimal ? '' : <Nav />}
         </div>
-
       </header>
-
     </>
-)
+  );
 }

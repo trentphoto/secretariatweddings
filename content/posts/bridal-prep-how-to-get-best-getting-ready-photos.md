@@ -14,7 +14,7 @@ The day you’ve been waiting for has finally arrived! If you’re anything like
 
 When it comes to your wedding photos, a major part of any wedding gallery is the “Getting Ready” shots. Aside from venue detail shots, typically the beginning of your gallery will include a good amount of Getting Ready photos.
 
-These are the photos when your hair and makeup is getting done, bridesmaids doing the same, and then getting into your dress and final touches. During this time, your photographer will be there to capture these memories through their artistic vision. 
+These are the photos when your hair and makeup is getting done, bridesmaids doing the same, and then getting into your dress and final touches. During this time, your photographer will be there to capture these memories through their artistic vision.
 
 However, as a bride, there are a few things you can do (aside from hiring a great photographer) to ensure the images come out beautifully.
 
@@ -36,7 +36,7 @@ Just so we’re on the same page, Getting Ready photos can include any of the fo
 
 ### First tip: Get a venue with a good bridal suite.
 
-The room really makes all the difference, and is one of the biggest factors here. 
+The room really makes all the difference, and is one of the biggest factors here.
 
 One of the most important things is that the room is **spacious.** You’ll want not only a spacious room, one in which the photographer has space to move around everyone, get the angles they need, and arrange you and the setup in artistic ways as they shoot.
 
@@ -46,7 +46,7 @@ The photographer will be able to use a flash if the room is too dark, but ideall
 
 ### Tip 2: Keep that room clean (or at least clutter-free)
 
-The more neat the room is kept, the less of a chance any clutter has of showing up in the background of your images. 
+The more neat the room is kept, the less of a chance any clutter has of showing up in the background of your images.
 
 Just having a trash can and a designated place to put all your snacks and drinks, helps a lot!
 
@@ -74,13 +74,13 @@ Don’t try to pack your timeline too tight and not give enough time for the get
 
 ### Tip 7: Stay on schedule.
 
-Along the same lines as the last tip - once you have your timeline, stick to it! 
+Along the same lines as the last tip - once you have your timeline, stick to it!
 
 No guests enjoy waiting in their seats for 45 minutes because the bride is running behind schedule. And as a bride, in that position, you’ll be adding unnecessary stress to your day as well. Ensure you arrive on time to the and stick to the schedule from the beginning so the moments before your ceremony don’t have to be rushed.
 
 ### Tip 8: Get your hair and makeup done early
 
-Most brides prefer most of their getting-ready photos to be taken once their hair and makeup is mostly done - so they look how they will for the rest of the day. 
+Most brides prefer most of their getting-ready photos to be taken once their hair and makeup is mostly done - so they look how they will for the rest of the day.
 
 Since hair and makeup often take a good amount of time, having them done early allows the rest of the time to flow smoothly and gives you plenty of time for all the photos you want.
 
@@ -96,6 +96,6 @@ Ok, this is for sure the most important! If you’re stressed, it will for sure 
 
 ## Conclusion
 
-Honestly, if you pick just 3-4 of these and do them, you’ll be ahead of so many brides. And it will for sure show in your photographs. 
+Honestly, if you pick just 3-4 of these and do them, you’ll be ahead of so many brides. And it will for sure show in your photographs.
 
 But if I had to pick just one, it would be #10. No matter what, this is your day. It’s a day that you should enjoy. And it’s a day that you should remember and treasure for the rest of your life. That’s what your wedding photography gallery will allow you to do. And with some planning and preparation through the tips in this article, you’ll be able to ensure that your wedding gallery comes out in a beautiful way that truly reflects you and your special day.

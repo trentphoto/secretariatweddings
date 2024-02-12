@@ -22,7 +22,7 @@ module.exports = {
       fontFamily: {
         primary: ['Inter', ...fontFamily.sans],
         playfair: ['Playfair Display', ...fontFamily.serif],
-        derivia: ['Derivia', "Playfair Display", ...fontFamily.serif],
+        derivia: ['Derivia', 'Playfair Display', ...fontFamily.serif],
         test: ['Oswald', ...fontFamily.sans],
       },
       colors: {

@@ -16,9 +16,9 @@ Ok, on to the first one!
 
 # Pick the right officiant.
 
-Ok, so the mistake to avoid would be 'picking the wrong officiant.' But I don't think it's about that as much as it is about picking one who is perfect for you. 
+Ok, so the mistake to avoid would be 'picking the wrong officiant.' But I don't think it's about that as much as it is about picking one who is perfect for you.
 
-You want an officiant who _knows_ you. Ideally someone who's been a part of your life already. Someone who can speak to you both, who has perspective on your journey, and who can give your guests deeper insight into who you are as a couple. 
+You want an officiant who _knows_ you. Ideally someone who's been a part of your life already. Someone who can speak to you both, who has perspective on your journey, and who can give your guests deeper insight into who you are as a couple.
 
 Pro tip: chat with the officiant about what he/she will discuss during the ceremony.
 
@@ -34,11 +34,12 @@ This is definitely something you shouldn't have to worry about on your special d
 
 # Cell phones and cameras.
 
-No guest wants to be that person whose phone goes off during the ceremony. Yet, in so many ceremonies this is a predictable feature. 
+No guest wants to be that person whose phone goes off during the ceremony. Yet, in so many ceremonies this is a predictable feature.
 
 Same with cameras - some guests love to stand up, walk behind you as you're coming down the aisle, or pick the "perfect" spot to get their angle. Unfortunately, this often gets in the way of the photographer and videographer, and at the very least, causes unnecessary distraction during the ceremony.
 
-How can you avoid these? The best way is to communicate it in multiple ways. 
+How can you avoid these? The best way is to communicate it in multiple ways.
+
 - You can include it in your email announcements or on your wedding website.
 - You can put it on a sign as guests enter the ceremony location.
 - You can have the officiant announce it at the beginning of the ceremony also.
@@ -47,6 +48,6 @@ Most guests have the best intentions, so a few friendly reminders go a long way.
 
 Summary
 
-Honestly, if you plan for these three things, you'll be avoiding 90% of the most common ceremony mistakes. 
+Honestly, if you plan for these three things, you'll be avoiding 90% of the most common ceremony mistakes.
 
 Now the rest of your focus can be freed up to plan for those parts of the ceremony that are creative and special for you both. And during the ceremony, your focus can be right where it should be - on each other.

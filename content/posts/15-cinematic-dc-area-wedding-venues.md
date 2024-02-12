@@ -20,7 +20,7 @@ First, indoor vs outdoor makes a big difference. Both are good - but you should 
 
 Indoor venues can be beautiful - as long as they are well-lit. A dark, dimly lit reception ballroom won’t make for the best photos. On the other hand, a room with large windows like the St. Regis hotel (#8 on the list below) can make for beautiful lighting.
 
-Another consideration is location and scenery outdoors. Are there beautiful nature scapes surrounding the venue? Or maybe it’s tucked away in a beautiful garden area, such as Meadowlark Gardens (#5). 
+Another consideration is location and scenery outdoors. Are there beautiful nature scapes surrounding the venue? Or maybe it’s tucked away in a beautiful garden area, such as Meadowlark Gardens (#5).
 
 And if **drone videography** is important to you, you’ll want to pick a venue outside of most major cities and away from any airports, as these will be a no-fly zone for drones.
 
@@ -44,7 +44,7 @@ See more information on [their weddings page](https://lansdowneresort.com/weddin
 
 ![The Fairmont Washington, D.C.](https://res.cloudinary.com/dakfmjumy/image/upload/v1669177904/content/posts/venues/fairmont_ctgojh.svg)
 
-We love filming here! This hotel is luxurious to the smallest details. 
+We love filming here! This hotel is luxurious to the smallest details.
 
 The hotel has accessible parking for guests, making for a good guest experience. It also features a beautifully lit open entrance area.
 
@@ -52,7 +52,7 @@ The hotel has accessible parking for guests, making for a good guest experience.
 
 ### 3. **The Sequoia**
 
-![The Sequoia](https://res.cloudinary.com/dakfmjumy/image/upload/v1669178105/content/posts/venues/Untitled_1_1_csezbv.jpg) 
+![The Sequoia](https://res.cloudinary.com/dakfmjumy/image/upload/v1669178105/content/posts/venues/Untitled_1_1_csezbv.jpg)
 
 From their website: “Newly renovated Sequoia provides an exquisite setting and the finest of American cuisine, perfect for your Special Event.”
 
@@ -60,11 +60,11 @@ From their website: “Newly renovated Sequoia provides an exquisite setting and
 
 ### 4. **Regency at Dominion Valley**
 
-![Regency at Dominion Valley](https://res.cloudinary.com/dakfmjumy/image/upload/v1669178293/content/posts/venues/clubhouse_bridge-retouch_1_nmycqg.jpg) 
+![Regency at Dominion Valley](https://res.cloudinary.com/dakfmjumy/image/upload/v1669178293/content/posts/venues/clubhouse_bridge-retouch_1_nmycqg.jpg)
 
-Regency is a venue with a beautiful surrounding landscape and very nicely lit indoor rooms as well. 
+Regency is a venue with a beautiful surrounding landscape and very nicely lit indoor rooms as well.
 
-Located less than an hour outside DC, in Haymarket VA, Regency makes for an exquisite country wedding location. 
+Located less than an hour outside DC, in Haymarket VA, Regency makes for an exquisite country wedding location.
 
 They can accommodate anywhere from 10 to 240 guests.
 
@@ -72,7 +72,7 @@ Learn more by [visiting their site here](https://www.regencydvonline.com/Private
 
 ### 5. **Manor Country Club**
 
-![Manor Country Club](https://res.cloudinary.com/dakfmjumy/image/upload/v1669178435/content/posts/venues/getImage_1_oii2i2.jpg) 
+![Manor Country Club](https://res.cloudinary.com/dakfmjumy/image/upload/v1669178435/content/posts/venues/getImage_1_oii2i2.jpg)
 
 Located in Rockville, MD, just a short drive from downtown DC, Manor Country Club has everything you need for a beautiful and cinematic wedding experience.
 
@@ -80,17 +80,17 @@ Located in Rockville, MD, just a short drive from downtown DC, Manor Country Clu
 
 ### 6. **Glen Ellen Farm**
 
-![Glen Ellen Farm](https://res.cloudinary.com/dakfmjumy/image/upload/v1669179739/content/posts/venues/glen-ellen_oya1qt.jpg) 
+![Glen Ellen Farm](https://res.cloudinary.com/dakfmjumy/image/upload/v1669179739/content/posts/venues/glen-ellen_oya1qt.jpg)
 
-This one is a bit further from DC, in Frederick MD. But it’s well worth the drive, as it makes for beautiful outdoor weddings. 
+This one is a bit further from DC, in Frederick MD. But it’s well worth the drive, as it makes for beautiful outdoor weddings.
 
 [We shot Dianne and Brian’s wedding here](https://secretariat.video/portfolio/dianne-brian-highlight), and we love how it turned out! The experience was wonderful for guests and vendors alike.
 
 ### 7. **St. Regis Washington**
 
-![St. Regis Washington](https://res.cloudinary.com/dakfmjumy/image/upload/v1669180010/content/posts/venues/st-regis_1_iz0kgc.jpg) 
+![St. Regis Washington](https://res.cloudinary.com/dakfmjumy/image/upload/v1669180010/content/posts/venues/st-regis_1_iz0kgc.jpg)
 
-The St. Regis is a high-end venue in the heart of DC, and can accommodate the most luxurious of weddings. 
+The St. Regis is a high-end venue in the heart of DC, and can accommodate the most luxurious of weddings.
 
 Open for up to 300 guests, the meeting rooms here are quite beautiful as well.
 
@@ -100,7 +100,7 @@ Learn more [on Marriott’s website](https://www.marriott.com/en-us/hotels/wassx
 
 ![The Hotel Washington](https://res.cloudinary.com/dakfmjumy/image/upload/v1669211015/content/posts/venues/hotel-washington_jrzzgw.jpg)
 
-Also located in downtown DC, the Hotel Washington is another luxury wedding venue. 
+Also located in downtown DC, the Hotel Washington is another luxury wedding venue.
 
 According to [their website](https://www.thehotelwashington.com/washington-dc-wedding-venue), they offer three magnificent wedding venues as well as a dedicated wedding specialist.
 
@@ -116,17 +116,17 @@ It’s a beautiful venue and an excellent spot for drone footage!
 
 ### 10. **Meadowlark Gardens**
 
-![Meadowlark Gardens](https://res.cloudinary.com/dakfmjumy/image/upload/v1669211153/content/posts/venues/Meadowlark-7223-X3_jvebkg.jpg) 
+![Meadowlark Gardens](https://res.cloudinary.com/dakfmjumy/image/upload/v1669211153/content/posts/venues/Meadowlark-7223-X3_jvebkg.jpg)
 
-Meadowlark, located in the Tysons VA area, has beautiful sprawling gardens that make for wonderful formals. 
+Meadowlark, located in the Tysons VA area, has beautiful sprawling gardens that make for wonderful formals.
 
 It also offers [an incredible atrium](https://www.novaparks.com/weddings-catering/the-atrium-at-meadowlark) with huge windows that make for amazing lighting for photography and video.
 
 ### 11. **Cambria Hotel Washington D.C. Capitol Riverfront**
 
-![Cambria Hotel Washington D.C. Capitol Riverfront](https://res.cloudinary.com/dakfmjumy/image/upload/v1669211207/content/posts/venues/rooftop-hero-shot_yvob7v.jpg) 
+![Cambria Hotel Washington D.C. Capitol Riverfront](https://res.cloudinary.com/dakfmjumy/image/upload/v1669211207/content/posts/venues/rooftop-hero-shot_yvob7v.jpg)
 
-This is another venue with a beautiful view of the Riverfront in downtown DC. 
+This is another venue with a beautiful view of the Riverfront in downtown DC.
 
 They offer a range of event packages and a delightful experience for guests.
 
@@ -134,7 +134,7 @@ They offer a range of event packages and a delightful experience for guests.
 
 ### 12. **Conrad Washington DC**
 
-![Conrad Washington DC](https://res.cloudinary.com/dakfmjumy/image/upload/v1669211284/content/posts/venues/WASCI_Gallery_mczfol.jpg) 
+![Conrad Washington DC](https://res.cloudinary.com/dakfmjumy/image/upload/v1669211284/content/posts/venues/WASCI_Gallery_mczfol.jpg)
 
 The Conrad, also a newer DC hotel and wedding venue, offers several high-end event spaces — including a rooftop event terrace with a view of the Capitol.
 
@@ -142,7 +142,7 @@ The Conrad, also a newer DC hotel and wedding venue, offers several high-end eve
 
 ### 13. **Monte Ventoso**
 
-![Monte Ventoso](https://res.cloudinary.com/dakfmjumy/image/upload/v1669211378/content/posts/venues/monte-ventoso_yfzift.jpg) 
+![Monte Ventoso](https://res.cloudinary.com/dakfmjumy/image/upload/v1669211378/content/posts/venues/monte-ventoso_yfzift.jpg)
 
 A beautiful venue the middle of VA, this one is a bit further from DC, but has so many amenities for a perfect wedding.
 
@@ -150,7 +150,7 @@ See more info and photos on [their weddings page](https://www.themonteventoso.co
 
 ### 14. **Whistling Wren Farm**
 
-![Whistling Wren Farm](https://res.cloudinary.com/dakfmjumy/image/upload/v1669211623/content/posts/venues/whistling-wren_heucvw.jpg) 
+![Whistling Wren Farm](https://res.cloudinary.com/dakfmjumy/image/upload/v1669211623/content/posts/venues/whistling-wren_heucvw.jpg)
 
 Located in Keedysville MD, this beautiful farmhouse venue was the location of a recent fall wedding we filmed.
 

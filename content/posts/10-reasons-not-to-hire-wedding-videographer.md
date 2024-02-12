@@ -6,11 +6,11 @@ subtitle: In this post, we will look at some of the reasons why a bride might no
 image: https://res.cloudinary.com/dakfmjumy/image/upload/v1672440263/content/posts/evelina-friman-hw_sKmjb0ns-unsplash_1_miact3.jpg
 ---
 
-Your wedding date is coming up. 
+Your wedding date is coming up.
 
-As the big day approaches, you're starting to feel the excitement build. You've chosen the perfect venue, and you've found the perfect photographer. 
+As the big day approaches, you're starting to feel the excitement build. You've chosen the perfect venue, and you've found the perfect photographer.
 
-And you're working with a talented wedding planner who is helping you bring all your dreams to life. 
+And you're working with a talented wedding planner who is helping you bring all your dreams to life.
 
 But you’re on the fence about a videographer.
 
@@ -114,7 +114,7 @@ However, most videographers do have others they can recommend - some may even ha
 
 ## 10. Unsure about who to hire.
 
-If you're unsure about which videographer to hire, that probably means you care a lot about quality — which is great when it comes to wedding videography. 
+If you're unsure about which videographer to hire, that probably means you care a lot about quality — which is great when it comes to wedding videography.
 
 Seriously, we love brides who care deeply about their video and value the craft.
 
@@ -126,13 +126,13 @@ Decide what kind of style you like, and look for videographers who match that st
 
 Second, meet with potential videographers whose work you like. It's a great idea to meet with any vendor before hiring them, especially photographers and videographers. I'm always surprised at how few brides do this by default, and even more, how few vendors make it a practice!
 
-It will help you so much to get a sense of your potential vendor's personality and style. 
+It will help you so much to get a sense of your potential vendor's personality and style.
 
 This will help you a lot to determine if you feel comfortable working with them and if their approach aligns with your creative and artistic vision for your day.
 
 ## Conclusion
 
-I get it — deciding whether or not to hire a videographer for your wedding can be difficult. 
+I get it — deciding whether or not to hire a videographer for your wedding can be difficult.
 
 There are a myriad of reasons why you might be hesitant.
 

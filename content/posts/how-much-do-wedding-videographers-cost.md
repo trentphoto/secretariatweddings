@@ -6,7 +6,7 @@ subtitle: Wedding videography costs vary widely. Learn about budgeting and findi
 image: https://res.cloudinary.com/dakfmjumy/image/upload/v1672448881/content/posts/jakob-owens-B4f_Kx5jvpg-unsplash_1_t34dz5.jpg
 ---
 
-Wedding videography has come a long way since the early days of wedding films, which were often either poorly produced, with shaky, grainy footage, or in the realm of only the most high-end weddings. 
+Wedding videography has come a long way since the early days of wedding films, which were often either poorly produced, with shaky, grainy footage, or in the realm of only the most high-end weddings.
 
 Today, things are very different.
 

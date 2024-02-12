@@ -2,7 +2,7 @@
 title: '5 Steps to Find and Hire the Perfect Wedding Videographer'
 slug: 5-steps-to-find-hire-perfect-wedding-videographer
 date: '2022-12-29'
-subtitle: Don't settle for just any wedding videographer - follow these 5 steps to find the perfect one for your special day. 
+subtitle: Don't settle for just any wedding videographer - follow these 5 steps to find the perfect one for your special day.
 image: https://res.cloudinary.com/dakfmjumy/image/upload/v1672451673/content/posts/scott-webb-Wa0tqJ8vvuw-unsplash_1_qsl7jn.jpg
 ---
 
@@ -12,11 +12,11 @@ Why?
 
 Your wedding day happens only once. Then it's just a memory.
 
-And your wedding video will capture memories that you will cherish for a lifetime. 
+And your wedding video will capture memories that you will cherish for a lifetime.
 
 So it's not a decision you should make lightly.
 
-Rather, spend time getting to know various videographers and their styles. 
+Rather, spend time getting to know various videographers and their styles.
 
 See what you like and what you don't.
 
@@ -26,7 +26,7 @@ In this article, we'll look at a few ways you can find the perfect videographer 
 
 ## Step 1: Determine Your Needs and Goals
 
-Even before you start looking for a wedding videographer, it's important to have a clear idea of what you want your end product to look like. 
+Even before you start looking for a wedding videographer, it's important to have a clear idea of what you want your end product to look like.
 
 What kind of wedding video do you imagine?
 
@@ -54,7 +54,7 @@ Now that you have a better idea of what you're looking for...
 
 It's time for the fun part!
 
-Time to start searching for potential wedding videographers. 
+Time to start searching for potential wedding videographers.
 
 There are many ways to do this. Here's where I'd recommend starting.
 
@@ -74,7 +74,7 @@ You can also look at their experience in the wedding industry. While not always 
 
 ## Step 3: Call Them, Request Quotes, and Meet
 
-Once you've picked a handful wedding videographers that you like, it's time to talk to them. 
+Once you've picked a handful wedding videographers that you like, it's time to talk to them.
 
 For this, it's simple: reach out and see if they have availability on your date.
 
@@ -96,7 +96,6 @@ Now that you have talked to several videographers, it's time —
 
 Time to choose your favorite!
 
-
 Most likely, you already have someone in mind. Someone that you connected with more than the others you had talked to.
 
 Now you just have to let them know!
@@ -113,7 +112,7 @@ This is helpful to protect both of you and have everything in writing for you to
 
 ## Step 6: Communicate and Collaborate
 
-Finally, once you have hired a wedding videographer and signed the contract, it's important to maintain open communication and collaboration throughout the time leading up to your wedding. 
+Finally, once you have hired a wedding videographer and signed the contract, it's important to maintain open communication and collaboration throughout the time leading up to your wedding.
 
 It's very helpful to introduce them to your planner, photographer, and other vendors, so they can work together to plan for your wedding day.
 
@@ -125,7 +124,6 @@ Most videographers will have an onboarding process as well, so they can get all 
 
 By following these tips, you can find and select the perfect wedding videographer for your wedding.
 
-Don't be afraid to take your time, and definitely involve your spouse-to-be too. Ask questions, and get to know your videographer. 
+Don't be afraid to take your time, and definitely involve your spouse-to-be too. Ask questions, and get to know your videographer.
 
 With the right videographer and good communication, you are sure to have a beautiful and meaningful video to cherish for years to come.
-

@@ -60,7 +60,7 @@ It’ll also give you time to discuss your vision for your wedding video with th
 
 The more communication that happens up front, the better.
 
-And the more you will all be on the same page. 
+And the more you will all be on the same page.
 
 What better time to start, than now?
 
@@ -78,7 +78,7 @@ It might feature voiceovers from one of you to the other.
 
 That would be a storytelling style and approach.
 
-On the other hand, maybe you don’t want anything staged or produced. 
+On the other hand, maybe you don’t want anything staged or produced.
 
 Maybe you are looking for something very natural, candid, and organic feeling. A video that captures the raw emotion of your wedding day.
 
@@ -88,7 +88,7 @@ That’s a more documentary style video.
 
 ### How to determine your style
 
-So how you do get to know what style you want? 
+So how you do get to know what style you want?
 
 Simple - look at examples.
 
@@ -100,7 +100,7 @@ And don’t worry if they are not in your area. This stage of the process is jus
 
 If you do this well, it should give you a better understanding of the types of styles and approaches that are out there.
 
-And this in turn will help you narrow down your search later on. 
+And this in turn will help you narrow down your search later on.
 
 By starting with a style, you can save yourself a lot of time. You can then just focus on videographers whose work aligns with the style you like best.
 
@@ -110,15 +110,15 @@ By starting with a style, you can save yourself a lot of time. You can then just
 
 Now it’s time to start looking at options. The fun part!
 
-The first important decision you'll need to make is this: local vs nationwide. 
+The first important decision you'll need to make is this: local vs nationwide.
 
 If there’s a videographer you REALLY like, but isn’t local, would you be willing to pay a little extra for travel? (Assuming they offer this as an option)
 
 And if you’re planning a destination wedding, this is probably necessary anyway, unless you’re familiar with the local vendors.
 
-At the same time, though, hiring a local videographer has its benefits too. 
+At the same time, though, hiring a local videographer has its benefits too.
 
-They’ll be familiar with your area and may have shot at your venue or in a similar location nearby. 
+They’ll be familiar with your area and may have shot at your venue or in a similar location nearby.
 
 Additionally, you might be able to meet up with them in person before the wedding to get to know them and talk more about your video.
 
@@ -140,7 +140,7 @@ If you search for wedding videographers on Vimeo, you’ll find many — and wi
 
 #### Google My Business
 
-Google is another good place to find wedding videographers. 
+Google is another good place to find wedding videographers.
 
 Google is best if you are looking for someone local, because it allows you to search for those in your specific location.
 
@@ -150,9 +150,9 @@ Google is also very widely used, so it should give you many options from which t
 
 Social media is another great place to start your search!
 
-And one of the most effective ways to find a wedding videographer on social media is to search for relevant hashtags. 
+And one of the most effective ways to find a wedding videographer on social media is to search for relevant hashtags.
 
-Popular hashtags for wedding videography could be things like #weddingvideo, #weddingvideographer, and #weddingfilmmaker. 
+Popular hashtags for wedding videography could be things like #weddingvideo, #weddingvideographer, and #weddingfilmmaker.
 
 **Instagram** is the de-facto place to start, as almost every videographer is on it. It’s even used by many as their primary portfolio location.
 
@@ -164,13 +164,13 @@ That’s where I’d recommend starting: Instagram and TikTok. You can use other
 
 **WeddingWire**
 
-One popular website is WeddingWire, an online marketplace that connects couples with wedding vendors in their area. 
+One popular website is WeddingWire, an online marketplace that connects couples with wedding vendors in their area.
 
 You can search and filter wedding videographers by location, price range, and style, and read reviews from previous brides.
 
 **TheKnot**
 
-Another popular resource is The Knot, which is owned by the same company as WeddingWire. 
+Another popular resource is The Knot, which is owned by the same company as WeddingWire.
 
 They offer pretty much the same service, but you might find a few videographers who are only on one and not the other.
 
@@ -178,7 +178,7 @@ They offer pretty much the same service, but you might find a few videographers 
 
 Zola is another wedding-specific website is much newer. It’s got a fresh and trendy feel, and is a genuinely helpful site.
 
-Just like the other sites, Zola provides a range of other wedding vendors, including photographers, florists, caterers and more. 
+Just like the other sites, Zola provides a range of other wedding vendors, including photographers, florists, caterers and more.
 
 **Carats and Cake**
 
@@ -186,7 +186,7 @@ Carats and Cake is another vendor site, with a curated list of vendors.
 
 The site says it will help you "Be on the Cutting Edge of Wedding Trends, Tips, and Resources," and it aims to help couples stay up-to-date on the latest industry developments and find the perfect vendors for their big day.
 
-[WeddingPlanner.co.uk](http://weddingplanner.co.uk/) 
+[WeddingPlanner.co.uk](http://weddingplanner.co.uk/)
 
 Another directory site, for UK weddings. The site has dozens of videographers to choose from, view portfolio, and contact.
 
@@ -212,7 +212,7 @@ To narrow down your list, here are a few factors you can keep in mind:
 - **Location:** Are they local? If not, consider their location, if they’re willing to travel, and if so, how far. And if you are planning a destination wedding, you may want to find someone who specializes in destination weddings.
 - **Reviews:** You can read reviews from previous clients to get an idea of the videographer's level of professionalism and customer satisfaction. Look for reviews that mention the quality of the final product, the videographer's responsiveness, and their ability to capture the key moments of the wedding day.
 
-These factors should help you narrow down your options and create a shortlist of those who meet your criteria. 
+These factors should help you narrow down your options and create a shortlist of those who meet your criteria.
 
 This will make it easier to compare your options in the next step!
 
@@ -222,7 +222,7 @@ This will make it easier to compare your options in the next step!
 
 Ok - now you’ve made your shortlist!
 
-Now it’s time to reach out to the candidates and start some conversations. 
+Now it’s time to reach out to the candidates and start some conversations.
 
 ### What to Talk About
 
@@ -279,7 +279,7 @@ Also - ask if they have any questions for you!
 
 At this point, you should now have met at least one videographer whose style you love, whose packages you resonate with, and whom you can envision spending your special day with you!
 
-Now it’s just a matter of the booking and onboarding process. 
+Now it’s just a matter of the booking and onboarding process.
 
 Congratulations - we just went from no-idea-where-to-start, to found the perfect person to capture and document your special day!
 
@@ -287,8 +287,8 @@ Congratulations - we just went from no-idea-where-to-start, to found the perfect
 
 Finding the right videographer is such an important step in wedding planning - and one that is so often overlooked.
 
-It truly is worth taking the extra time to research, plan, talk to people, and find the one who is the right fit for you. 
+It truly is worth taking the extra time to research, plan, talk to people, and find the one who is the right fit for you.
 
-Whatever style you’re looking for, you’re sure to find a wedding videographer who can capture your special day in a way that you will treasure for years to come. 
+Whatever style you’re looking for, you’re sure to find a wedding videographer who can capture your special day in a way that you will treasure for years to come.
 
 And if you like [our style](https://secretariat.video/portfolio), please reach out - I’d love to chat about documenting your special day for you.

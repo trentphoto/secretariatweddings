@@ -32,7 +32,7 @@ It adds an extra layer of magic that photographs simply cannot.
 
 ## Should I hire a videographer?
 
-Understandably, many couples are on the fence. Wedding videography is a serious investment, often costing more than photography. 
+Understandably, many couples are on the fence. Wedding videography is a serious investment, often costing more than photography.
 
 And it's a creative decision, too - you want to find someone who matches your style and vision for your wedding.
 
@@ -44,7 +44,7 @@ In this article, I'll explore some of these benefits, and how a wedding video wi
 
 Let's get started:
 
-### 1. It’s the #1 regret of brides. 
+### 1. It’s the #1 regret of brides.
 
 That’s right - not hiring a videographer is one of brides’ [top wedding regrets](https://secretariat.video/blog/wedding-videography-statistics-2022).
 
@@ -68,7 +68,7 @@ If you hire a videographer, you’ll have not only your memories from your point
 
 This doubles (or more) the precious memories you have of the most special day of your life.
 
-### 5. To have  the entire day captured, start to finish.
+### 5. To have the entire day captured, start to finish.
 
 Having a videographer there for your entire day, start to finish, will let you have the entire day captured and recorded for your memories.
 
@@ -98,11 +98,11 @@ A wedding video will allow you relive your wedding day over and over again. Much
 
 ### 10. To relive the emotions of the day.
 
-Part of why I became a wedding videographer is that wedding videos contain so much emotion and meaning. 
+Part of why I became a wedding videographer is that wedding videos contain so much emotion and meaning.
 
-More than almost ay other video genre, wedding videos are some of the most emotional and meaningful. 
+More than almost ay other video genre, wedding videos are some of the most emotional and meaningful.
 
-Why? 
+Why?
 
 Because it’s the most emotional and meaningful day of your life!
 
@@ -118,13 +118,13 @@ A videographer can capture the wedding party: preparing for the big day, posing 
 
 ### 12. To capture a full film of the ceremony.
 
-Imagine being able to relive your entire wedding ceremony as if you were watching it live. 
+Imagine being able to relive your entire wedding ceremony as if you were watching it live.
 
-When you hire a videographer to capture the entire ceremony, they will capture all of this. They’ll also get it from a perspective that you may not have been able to notice in the moment - things like the walk down the aisle, and the exchange of vows, the audience’s reactions, etc. 
+When you hire a videographer to capture the entire ceremony, they will capture all of this. They’ll also get it from a perspective that you may not have been able to notice in the moment - things like the walk down the aisle, and the exchange of vows, the audience’s reactions, etc.
 
 It’s a level of storytelling that’s far beyond just simply photographs.
 
-And when you hire my company Secretariat Media and get our Full Ceremony package - we record the full thing in 3-4 camera angles and professional audio. 
+And when you hire my company Secretariat Media and get our Full Ceremony package - we record the full thing in 3-4 camera angles and professional audio.
 
 So it’s literally like watching a feature film where you and your spouse are the stars.
 
@@ -138,17 +138,17 @@ When you have a videographer, not only do they capture the entire reception, but
 
 ### 14. To create multiple wedding films for you.
 
-Typically, most wedding video packages will come with a highlight film, from 2-3 minutes in length (ours is 3-5min). 
+Typically, most wedding video packages will come with a highlight film, from 2-3 minutes in length (ours is 3-5min).
 
-This is a short film highlighting the various parts of your wedding day. 
+This is a short film highlighting the various parts of your wedding day.
 
-Most couples also opt for a longer version, a feature-length film which can be 20-30 minutes or longer. 
+Most couples also opt for a longer version, a feature-length film which can be 20-30 minutes or longer.
 
 But the highlight film, 2-3min, is great for sharing on social media and with family and friends. Anything longer than 2-3 min will likely lose the attention of even your biggest fans.
 
 ### 15. To capture your guests’ reactions.
 
-In the moment, you won’t be able to notice and every guest’s reaction. Even speaking to every guest during the reception is difficult! 
+In the moment, you won’t be able to notice and every guest’s reaction. Even speaking to every guest during the reception is difficult!
 
 That’s why your videographer is there. He or she can capture the reactions of your guests during both the ceremony and reception. These make for great additions to your wedding films.
 
@@ -168,11 +168,11 @@ If a specific line or section of a speech stands out, that could also be include
 
 ![Wedding Send-off](https://res.cloudinary.com/dakfmjumy/image/upload/v1672258065/content/posts/andreas-ronningen-S2YssLw97l4-unsplash_1_pbdjcm.jpg)
 
-Doing a special tradition at your wedding? Or even a common one, like a bouquet toss? 
+Doing a special tradition at your wedding? Or even a common one, like a bouquet toss?
 
 Having that captured on video will mean you get to experience it again, and it makes for a fun part of your highlight film, too.
 
-### 19. Getting married in a beautiful venue, or scenic location? 
+### 19. Getting married in a beautiful venue, or scenic location?
 
 Hire a videographer who is highly skilled in creating cinematic films and re-live the beauty of where your wedding day was set.
 
@@ -182,7 +182,7 @@ Bonus: get drone footage if your location is a good spot for it!
 
 ![Wedding Details](https://res.cloudinary.com/dakfmjumy/image/upload/v1672258065/content/posts/marisa-morton-h-dR-XFJXis-unsplash_1_dplaig.jpg)
 
-With all the time, effort, cost, and attention to detail that is put in to decor and details on your wedding day, having this on video can help you remember how amazing it all was, and how everything came together! 
+With all the time, effort, cost, and attention to detail that is put in to decor and details on your wedding day, having this on video can help you remember how amazing it all was, and how everything came together!
 
 At the ceremony and before: your dress, the flowers, the decorations, the scenery.
 
@@ -200,9 +200,9 @@ And if you’re feeling eager to share the excitement, we have an option to get 
 
 ### 22. To capture the atmosphere of the day.
 
-It’s true, photos can capture the feeling and emotion of the day and event. But video is best for the moments when there’s a specific atmosphere to capture and remember. 
+It’s true, photos can capture the feeling and emotion of the day and event. But video is best for the moments when there’s a specific atmosphere to capture and remember.
 
-During the ceremony, the guests coming in, getting seated, waiting in anticipation. 
+During the ceremony, the guests coming in, getting seated, waiting in anticipation.
 
 And during the reception, whether it’s an intimate dance or a lively dance floor, a video is the best way to capture and relive your reception.
 
@@ -212,13 +212,13 @@ Getting ready, putting on your suit or dress, making sure you have your vows. So
 
 ### 24. To capture special small moments in between.
 
-These are some of my favorite moments to capture as a videographer myself: a small joke or comment that you share with your spouse, in between photos or other things. Candid moments. Intimate conversations. Spontaneous dance parties. You or your spouse looking at the camera with excitement and nervousness, ready to walk in to the ceremony. 
+These are some of my favorite moments to capture as a videographer myself: a small joke or comment that you share with your spouse, in between photos or other things. Candid moments. Intimate conversations. Spontaneous dance parties. You or your spouse looking at the camera with excitement and nervousness, ready to walk in to the ceremony.
 
 Moments like this are my favorite to capture and re-live.
 
 ### 25. To document your love story.
 
-Consider incorporating some elements into your wedding video that give some of your story as a couple. Whether it’s how you met, how you fell in love, or even your journey planning your wedding together. 
+Consider incorporating some elements into your wedding video that give some of your story as a couple. Whether it’s how you met, how you fell in love, or even your journey planning your wedding together.
 
 ### 26. To create and show a same-day edit for your reception.
 
@@ -258,7 +258,7 @@ If you’re having a destination wedding, video is a must-have to capture the fu
 
 ### 32. It’s relatively inexpensive
 
-Let’s say you hire a high-end videographer and get even the most expensive of wedding packages. It might seem like a lot in comparison to your other wedding costs. But - let’s say you don’t hire a videographer. In 20-30 years, how much would you give to be able to relive your day again? 
+Let’s say you hire a high-end videographer and get even the most expensive of wedding packages. It might seem like a lot in comparison to your other wedding costs. But - let’s say you don’t hire a videographer. In 20-30 years, how much would you give to be able to relive your day again?
 
 In the moment, the cost seems like a lot, but thinking long-term, even an expensive package is a very small investment.
 
@@ -272,7 +272,7 @@ I can’t tell you how many stories I have heard, where a grandparent or other r
 
 Smiling, laughing, having a good time celebrating you on your special day - this is a memory you will cherish.
 
-Those small moments and interactions would otherwise be lost or forgotten in the blur of the day. 
+Those small moments and interactions would otherwise be lost or forgotten in the blur of the day.
 
 ### 35. Feel like a movie star.
 
@@ -318,7 +318,7 @@ Video is such a flexible medium, you can easily have your video delivered to you
 
 Videographers are very experienced in working together with your photographer to make sure we both capture the shots we need for you.
 
-### 45. There are a range of styles and types of wedding videography. 
+### 45. There are a range of styles and types of wedding videography.
 
 Some videographers like to specialize in a particular style, whereas others have a more general and utilitarian style.
 

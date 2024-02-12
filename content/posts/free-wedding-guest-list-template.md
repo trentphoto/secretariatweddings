@@ -8,7 +8,7 @@ image: https://res.cloudinary.com/dakfmjumy/image/upload/v1668490154/free-weddin
 
 **Quick link:** [Click here to view the Canva template and make your own copy to use.](https://www.canva.com/design/DAFVOP9jSGE/d3oYKPkaPmIZ_0Lt2Lf1Pg/view).
 
-As you begin your journey of planning your wedding, one major task (a daunting one for many couples!) is to create a guest list. 
+As you begin your journey of planning your wedding, one major task (a daunting one for many couples!) is to create a guest list.
 
 It can be tough: finding a good balance.
 
@@ -28,7 +28,7 @@ Quite simply, because you have a million things to think about and this will mak
 
 Using template to create and manage your guest list will help you keep track of all the important details about your guests without you having to keep track of it mentally. (Or worse, not track it at all).
 
-It’ll also make it easier to communicate with them as your special day approaches. You’ll be able to easily reference their name, contact info, status of their RSVP, etc. 
+It’ll also make it easier to communicate with them as your special day approaches. You’ll be able to easily reference their name, contact info, status of their RSVP, etc.
 
 Think of it as a central location for their contact information and RSVP status.
 
@@ -38,7 +38,7 @@ Staying organized and on top of all the various tasks and aspects of planning, i
 
 ## Why a Canva template?
 
-There are so many wedding planning templates online. But Canva is one of our favorite tools for this. 
+There are so many wedding planning templates online. But Canva is one of our favorite tools for this.
 
 You can simply bookmark the page, and continuously edit the template as needed, downloading anytime you need.
 
@@ -53,9 +53,9 @@ Include the names and phone numbers of all of your visitors in this area. Their 
 ### 2. Relationship
 
 Describe each visitor's relationship to you or your partner in this area.
-    
+
 Use this to organize your guest list by priority. It will also help you decide who to invite to various activities (such the rehearsal dinner).
-    
+
 ### 3. RSVP Invitation Status
 
 Keep track of each visitor's status here. Record if you have issued invitations to them and if they have accepted them.
@@ -90,11 +90,11 @@ Utilizing a list of people to attend format can assist with making the most comm
 
 We hope this free wedding guest list template is useful as you continue your journey with wedding planning. Please reach out to us if you have any questions or suggestions for it.
 
-We typically recommend couples start on their guest list very early on. 
+We typically recommend couples start on their guest list very early on.
 
 If that’s you, great! Some next steps for you will likely be things like planning for dresses and suits, wedding colors, and even picking a venue if you haven’t done that yet.
 
-In addition, if you haven’t booked a photographer or videographer yet, we would recommend doing that early in the process as well :) 
+In addition, if you haven’t booked a photographer or videographer yet, we would recommend doing that early in the process as well :)
 
 I’d love to chat with you about your wedding and how can document the most memorable day of your life for you.
 
