@@ -53,7 +53,7 @@ export default function BlogPostPage({
                 className='content list-disc'
               />
 
-              <AuthorBox />
+              {/* <AuthorBox /> */}
             </div>
           </section>
         </main>
