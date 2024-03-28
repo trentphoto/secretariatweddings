@@ -25,8 +25,8 @@ export default function AboutPage() {
             <div className='bg-gray-100 p-8'>
               <div className='flex w-full flex-col items-start justify-between border border-gray-700 p-8 lg:flex-row-reverse'>
                 <NextImage
-                  src='/images/hk.jpg'
-                  alt='James Trent'
+                  src='https://res.cloudinary.com/dakfmjumy/image/upload/v1672711123/content/posts/alvin-mahmudov-436ZVxZOtEM-unsplash_1_kc1zlw.jpg'
+                  alt='bride'
                   width='400'
                   height='400'
                   className='mb-12 overflow-hidden rounded-md shadow-md lg:mb-0'
