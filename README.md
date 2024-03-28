@@ -1,3 +1,3 @@
-# Secretariat Video website
+# Secretariat Weddings website
 
-Built with NextJS.
+Built with React, NextJS, and Tailwind. Deployed on Netlify.
