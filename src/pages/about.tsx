@@ -84,9 +84,7 @@ export default function AboutPage() {
 
         <section className='py-20'>
           <div className='container'>
-            <h1 className='mb-8 text-center'>
-              Using only the best state-of-the-art equipment
-            </h1>
+            <h1 className='mb-8 text-center'>Using only the best state-of-the-art equipment</h1>
             <div className='mx-auto grid max-w-md grid-cols-2 items-center gap-12 p-2 opacity-70 grayscale md:max-w-3xl md:grid-cols-4'>
               <LogoDji
                 width='200'
@@ -145,41 +143,6 @@ export default function AboutPage() {
           </div>
         </section>
 
-        <section className='bg-gray-100 md:p-12'>
-          <div className='container'>
-            <div className='p-8'>
-              <div className='flex w-full flex-col items-start justify-between border border-gray-700 p-8 lg:flex-row-reverse lg:p-16'>
-                <NextImage
-                  src='/images/james.webp'
-                  alt='James Trent'
-                  width='400'
-                  height='400'
-                  className='mb-12 overflow-hidden rounded-md shadow-md brightness-125 grayscale lg:mb-0 lg:ml-4'
-                />
-
-                <div className='mb-6 lg:mb-0 lg:mr-6 lg:w-1/2'>
-                  <p className='smallcaps mb-4 text-sm'>Meet Your Filmmaker</p>
-                  <h2 className='mb-6 text-5xl text-gray-600'>James Trent</h2>
-                  <div className='max-w-md'>
-                    <p className='mb-2'>
-                      With over 10 years experience in cinematic video
-                      production, James has a passion for capturing moments and
-                      creating an artistic, meaningful final product.
-                    </p>
-                    <p className='mb-6'>
-                      Not only is your wedding video an investment, but it's one
-                      of the most special and meaningful days of your life.
-                      That's why James brings over 10 years experience creating
-                      cinematic videos with original sound design and stunning
-                      visuals — to ensure each priceless moment is captured
-                      forever.
-                    </p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
       </main>
       <Footer />
     </Layout>
